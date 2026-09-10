@@ -37,3 +37,14 @@ I recommend AWS because a global e-commerce company needs a platform that can ha
 -	Amazon EC2
 -	Amazon S3
 - Elastic Load Balancing
+
+# Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | GCP | Provides scalable infrastructure and useful development services for growing applications. |
+| Enterprise Organization | AWS | Offers a broad range of enterprise cloud services and global infrastructure. |
+| Microsoft Environment | Azure | Provides strong integration with Windows Server, Microsoft 365, and Microsoft Entra ID. |
+| AI / Machine Learning | GCP | Provides strong AI, machine learning, and data analytics capabilities. |
+| Kubernetes Deployment | GCP | Google Kubernetes Engine provides a managed Kubernetes platform. |
+| Global Web Application | AWS | AWS provides global infrastructure and services suitable for highly available applications. |
