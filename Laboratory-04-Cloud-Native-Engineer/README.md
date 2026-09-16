@@ -27,8 +27,8 @@ docker ps -a
 docker rm nginx-server
 docker ps -a
 
-##Skills Learned
+### Skills Learned
 I learned how to use basic Docker commands, pull an image, run a container, check a container, stop a container, and remove a container. I also learned how to document technical procedures using Markdown and GitHub.
 
-##Challenges Encountered
+### Challenges Encountered
 One challenge was understanding the Docker commands and the purpose of port mapping. I also needed to carefully check the terminal output to make sure that the Nginx container was running correctly.
