@@ -1,4 +1,4 @@
-Cloud Storage Types Research
+# Cloud Storage Types Research
 
 Storage Type| Description| Primary Use Case| Cloud Provider Example
 Block Storage| Stores data in separate blocks. It works like a virtual hard drive that can be attached to a computer or virtual machine.| Databases, operating systems, and virtual machines| AWS EBS
