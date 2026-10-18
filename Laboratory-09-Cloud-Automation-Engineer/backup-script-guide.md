@@ -6,7 +6,7 @@ The following Bash script creates a compressed backup of the application data di
 
 #!/bin/bash
 
-# Automated Backup Script for CloudNova Technologies
+#Automated Backup Script for CloudNova Technologies
 SOURCE_DIR="app-data"
 BACKUP_DIR="backups"
 TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
