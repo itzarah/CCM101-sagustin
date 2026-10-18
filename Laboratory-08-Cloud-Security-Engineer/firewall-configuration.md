@@ -9,6 +9,7 @@ This command allows SSH connections so administrators can remotely manage the se
 ### 2. Set the Default Deny Policy
 
 sudo ufw default deny incoming
+
 sudo ufw default allow outgoing
 
 These commands block incoming traffic by default and allow outgoing traffic.
@@ -28,6 +29,7 @@ This command allows incoming TCP connections on port 8080 so users can access th
 ### 5. Verify Firewall Rules
 
 sudo ufw status verbose
+
 sudo ufw status numbered
 
 These commands display the firewall status, default policies, and configured rules.
